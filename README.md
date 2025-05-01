@@ -13,6 +13,7 @@ Interação em tempo real com elementos da página
 - JavaScript (dinamismo e interatividade)
 
 ## 📸 Demonstração
+<a href="[https://www.seusite.com](https://andreapnz.github.io/refrigerante-animado/)" target="_blank">Visite a Animação do Refrigerante</a>
 [Clique aqui ](https://andreapnz.github.io/refrigerante-animado/)
 
 ## 📚 Aprendizado
