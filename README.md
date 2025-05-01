@@ -13,7 +13,7 @@ Interação em tempo real com elementos da página
 - JavaScript (dinamismo e interatividade)
 
 ## 📸 Demonstração
-(Inclua aqui um gif ou link para uma demo, se disponível)
+[Clique aqui ](https://andreapnz.github.io/refrigerante-animado/)
 
 ## 📚 Aprendizado
 Este projeto foi desenvolvido com o apoio da comunidade DevClube, sendo uma excelente oportunidade para praticar animações, interatividade com JavaScript e estruturação de componentes em HTML/CSS.
